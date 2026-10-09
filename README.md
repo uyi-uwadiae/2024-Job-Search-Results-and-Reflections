@@ -2,7 +2,7 @@
 
 A data-driven post-mortem of my July 2024 – January 2025 job search: 622 applications across 182 companies in about 29 weeks, 39 interview processes, and 5 final rounds.
 
-**Slides:** [Job Search 2024 deck](deck/Job_Search_2024.pdf)
+**Slides:** [Job Search 2024 deck](/Job_Search_2024.pdf)
 
 The tables below are aggregates. Row-level data and contacts aren't published.
 
