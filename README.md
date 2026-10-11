@@ -92,3 +92,7 @@ The tables below are aggregates. Row-level data and contacts aren't published.
 - **Offer:** a job offer resulting from a logged application.
 - One person's search, self-logged, concentrated in US strategy, product, and program roles. Conversion rates come from small samples and aren't causal.# 2024-Job-Search-Results-and-Reflections
 Sharing the results of my job search experience in 2024. 622 applications, 0 offers.
+
+## About
+
+Uyi Uwadiae · [Portfolio](https://uyiuwadiae.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/uyiuwadiae/) · [Substack](https://uyiuwadiae.substack.com) · [Medium](https://uyi-uwadiae.medium.com)
